@@ -5,7 +5,5 @@ Classic Tic-Tac-Toe Game in Python 3
 
 
 
-
-<img width="695" alt="Screen Shot 2022-01-24 at 8 36 58 PM" src="https://user-images.githubusercontent.com/91064646/150894644-960541e0-6da9-4931-a734-6a9b011f832c.png">
-<img width="734" alt="Screen Shot 2022-01-24 at 8 37 06 PM" src="https://user-images.githubusercontent.com/91064646/150894651-fee56856-b79a-4bba-bbcb-18e3b7f7088d.png">
-<img width="766" alt="Screen Shot 2022-01-24 at 8 37 15 PM" src="https://user-images.githubusercontent.com/91064646/150894658-b9f6ab07-3969-4cbc-a152-baad0549cbda.png">
+<img width="481" alt="Screen Shot 2022-01-24 at 8 39 45 PM" src="https://user-images.githubusercontent.com/91064646/150894772-c2c7dbdb-c517-4dd0-99ac-6278522c3824.png">
+<img width="483" alt="Screen Shot 2022-01-24 at 8 39 58 PM" src="https://user-images.githubusercontent.com/91064646/150894778-1f2a2635-0786-4602-b60f-68d95e2ce811.png">
